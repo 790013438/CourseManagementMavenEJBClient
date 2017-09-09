@@ -9,5 +9,5 @@ import snippets.dto.CourseDTO;
 @Remote
 public interface CourseBeanRemote {
 
-    public List<CoursDTO> getCourses();
+    public List<CourseDTO> getCourses();
 }
